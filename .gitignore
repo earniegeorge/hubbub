@@ -1,0 +1,5 @@
+.settings/
+target/
+*DB.properties
+*DB.script
+web-app/WEB-INF/classes
